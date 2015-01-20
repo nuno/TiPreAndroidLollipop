@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- extend one of the Theme.AppCompat themes -->
+
+ <color name="primary">#673ab7</color>
+    <color name="primary_dark">#512da8</color>
+    <color name="accent">#ffc400</color>
+    <color name="text_primary">#D9FFFFFF</color>
+    <color name="text_secondary">#D9000000</color>
+
+
+<style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+    <item name="actionBarStyle">@style/MyActionBarStyle</item>
+	 <item name="android:windowBackground">@color/accent</item>
+	 <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+
+
+
+	<!-- <item name="android:statusBarColor">#95008FD5</item> -->
+</style>
+
+ <style name="MyActionBarStyle"
+           parent="@style/Widget.AppCompat.ActionBar">
+
+
+
+        <!-- Support library compatibility -->
+
+        <item name="background">@color/primary</item>
+
+    </style>
+
+
+
+</resources>
