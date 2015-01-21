@@ -13,3 +13,7 @@ Do not forget to change the sdk version in tiapp.xml according.
 
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3o3M1G47070C06263k2B/Image%202015-01-21%20at%2012.34.47%20AM.png)
+
+![](https://s3.amazonaws.com/f.cl.ly/items/0c1c300N2I3r3w331T2p/Image%202015-01-21%20at%2012.45.37%20AM.png)
+
+
