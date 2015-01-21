@@ -10,3 +10,6 @@ Also you will need to install the master git to get the lasted bleeding edge sdk
 titanium sdk install --branch master --default
 
 Do not forget to change the sdk version in tiapp.xml according.
+
+
+![](https://s3.amazonaws.com/f.cl.ly/items/3o3M1G47070C06263k2B/Image%202015-01-21%20at%2012.34.47%20AM.png)
