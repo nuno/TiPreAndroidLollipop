@@ -41,9 +41,7 @@
     <android xmlns:android="http://schemas.android.com/apk/res/android">
         <uses-sdk android:targetSdkVersion="21"/>
         <manifest>
-            <application android:theme="@style/Theme.MyTheme"/>
-            <activity android:configChanges="keyboardHidden|orientation"
-                android:name="org.appcelerator.titanium.TiActivity" android:screenOrientation="portrait"/>
+            <application android:theme="@style/materialTheme"/>
         </manifest>
     </android>
     <mobileweb>
@@ -63,7 +61,7 @@
         <target device="mobileweb">false</target>
         <target device="windows">false</target>
     </deployment-targets>
-    <sdk-version>3.6.0.v20150101174016</sdk-version>
+   <sdk-version>3.6.0.v20150129165610</sdk-version>
     <plugins>
         <plugin version="1.0">ti.alloy</plugin>
     </plugins>

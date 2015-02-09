@@ -1,6 +1,6 @@
 # TiPreAndroidLollipop
 Titanium sdk 3.6-master first stab to support android Lollipop material design
-
+MIN-SDK-VERSION: 3.6.0.v20150129165610
 
 # What you will need.
 You will need to update your android tools and grab the android 21 version, you can do that via Studio.
